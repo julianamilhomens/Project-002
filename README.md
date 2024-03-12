@@ -1,5 +1,3 @@
-# Project-002
-
 💻 Starbucks Project 
 
 🚀 Technologies:
