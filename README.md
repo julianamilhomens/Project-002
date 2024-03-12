@@ -3,6 +3,7 @@
 💻 Starbucks Project 
 
 🚀 Technologies:
+
     HTML
     CSS
     JavaScript
