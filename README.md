@@ -3,9 +3,9 @@ Starbucks Project
 
 🚀 Technologies:
 
-    HTML
-    CSS
-    JavaScript
+ - HTML
+ - CSS
+ - JavaScript
 
 🎥 Project video:
 
